@@ -42,6 +42,7 @@ By visualizing key metrics, we aim to:
 
 ## 📢 Acknowledgments
 **Dataset Source:** https://www.kaggle.com/datasets/y0ussefkandil/bmw-sales2010-2024 
+
 **Tools Used:** Excel, PivotTable  
 **Visualization Design:** Light-themed dashboard with KPI cards and charts  
 
